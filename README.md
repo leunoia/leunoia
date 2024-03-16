@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @leunoia
-- 👀 I’m currently studying Computer Science at the University of Florida with a specialization in Artificial Intelligence!
-- 🌱 I’m interested in math and machine learning! 
+- 👋 Hi, I’m @leunoia (Preston Barney)
+- 👀 I’m working on a Masters in Artificial Intelligence Systems at the University of Florida with a focus on high-performance computing and robotics!
+- 🌱 I’m interested in math and machine learning!
 
 <!---
 leunoia/leunoia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
